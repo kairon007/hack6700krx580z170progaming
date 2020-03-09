@@ -164,7 +164,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v alcid=11</string>
+		<string>alcid=11</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -249,7 +249,7 @@
 			<key>Entries</key>
 			<true/>
 			<key>Legacy</key>
-			<string>First</string>
+			<false/>
 			<key>Linux</key>
 			<false/>
 			<key>Tool</key>
